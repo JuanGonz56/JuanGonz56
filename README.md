@@ -1,8 +1,8 @@
-<!-- Full-width, animated gradient waving banner -->
+<!-- Full-width animated purple-to-gold waving banner -->
 <div style="margin: 0 auto;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&descAlignY=70" 
-    alt="Juan Portfolio Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,50:f1c40f,100:8e44ad&height=180&section=header&text=Welcome%20I'm%20Juan!&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&descAlignY=70" 
+    alt="Welcome Banner"
     style="width: 100%; display: block;" 
   />
 </div>
