@@ -80,6 +80,6 @@
 </p>
 
 ---
-s
+
 > 🔥 “Stay Inovative. Keep Learning. Lift others while you climb.”  
 > — Juan Gonzalez
