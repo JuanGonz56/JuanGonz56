@@ -1,14 +1,12 @@
-<h1 align="center">Hi, I'm Juan 👋</h1>
+<div style="text-align: center; margin: 40px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Portfolio Banner"/>
+</div>
 
 <p align="center">
   <a href="https://personal-portfolio-website-one-lyart.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=black" alt="Portfolio Badge" />
   </a>
 </p>
-
-<div style="text-align: center; margin: 40px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Portfolio Banner"/>
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+CSUF;Full-Stack+Developer;Lover+of+Clean+UI+%26+Problem+Solving;Always+Learning!&center=true&width=500&height=45">
