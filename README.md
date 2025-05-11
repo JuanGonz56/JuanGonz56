@@ -1,6 +1,18 @@
 <h1 align="center">Hi, I'm Juan 👋</h1>
 
 <p align="center">
+  <a href="https://personal-portfolio-website-one-lyart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=black&color=black" alt="Portfolio Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+CSUF;Full-Stack+Developer;Lover+of+Clean+UI+%26+Problem+Solving;Always+Learning!&center=true&width=500&height=45">
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+CSUF;Full-Stack+Developer;Lover+of+Clean+UI+%26+Problem+Solving;Always+Learning!&center=true&width=500&height=45">
 </p>
 
@@ -9,7 +21,7 @@
 ## 💡 About Me
 
 🎓 CS student @ Cal State Fullerton (Class of 2025)  
-💻 Passionate about full-stack development, UI/UX, and solving real-world problems  
+💻 Passionate about full-stack development, UI/UX, AI/ML, and solving real-world problems  
 🚀 Built projects using React Native, Node.js, Firebase, SvelteKit, and more  
 📍 Based in Southern California | 🌎 Open to remote opportunities
 
@@ -64,10 +76,9 @@
   <a href="https://linkedin.com/in/juan-gonzalez-620474292"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/JuanGonz56"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:gonzalez.juanant524@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://personal-portfolio-website-one-lyart.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-> 🔥 “Stay Inovative. Keep building. Lift others while you climb.”  
+> 🔥 “Stay Inovative. Keep Learning. Lift others while you climb.”  
 > — Juan Gonzalez
