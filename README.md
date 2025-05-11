@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+CSUF;Full-Stack+Developer;Lover+of+Clean+UI+%26+Problem+Solving;Always+Learning!&center=true&width=500&height=45">
-</p>
-
----
-
 ## 💡 About Me
 
 🎓 CS student @ Cal State Fullerton (Class of 2025)  
