@@ -73,18 +73,6 @@
 </p>
 
 ---
-<footer style="text-align: center; margin-top: 60px; padding: 20px 0; background-color: #0f0f0f; color: #fff; font-family: 'Segoe UI', sans-serif;">
-  <p style="font-size: 16px; margin: 0;">🚀 Built with ❤️ by Juan Gonzalez</p>
-  <p style="margin: 8px 0;">
-    <a href="https://github.com/JuanGonz56" target="_blank" style="color: #fff; text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://linkedin.com/in/juan-gonzalez-620474292" target="_blank" style="color: #fff; text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:gonzalez.juanant524@gmail.com" target="_blank" style="color: #fff; text-decoration: none; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+s
 > 🔥 “Stay Inovative. Keep Learning. Lift others while you climb.”  
 > — Juan Gonzalez
