@@ -1,5 +1,10 @@
-<div style="text-align: center; margin: 60px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Portfolio Banner"/>
+<!-- Full-width, animated gradient waving banner -->
+<div style="margin: 0 auto;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=35&animation=fadeIn&fontAlignY=35&descAlignY=70" 
+    alt="Juan Portfolio Banner"
+    style="width: 100%; display: block;" 
+  />
 </div>
 
 <p align="center">
