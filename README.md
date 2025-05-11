@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<div style="text-align: center; margin: 40px 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Juan's%20Portfolio!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="Portfolio Banner"/>
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+CSUF;Full-Stack+Developer;Lover+of+Clean+UI+%26+Problem+Solving;Always+Learning!&center=true&width=500&height=45">
 </p>
