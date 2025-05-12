@@ -7,6 +7,13 @@
   />
 </div>
 
+<div style="margin: 0 auto;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=slice&color=0:f1c40f,100:9b59b6&height=80&section=footer&text=&fontColor=ffffff&animation=none" 
+    alt="Section Divider"
+    style="width: 100%; display: block;" 
+  />
+</div>
 
 <p align="center">
   <a href="https://personal-portfolio-website-one-lyart.vercel.app" target="_blank">
