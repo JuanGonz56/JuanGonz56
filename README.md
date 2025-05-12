@@ -23,7 +23,7 @@
 
 🎓 CS student @ Cal State Fullerton (Class of 2025)  
 💻 Passionate about full-stack development, UI/UX, AI/ML, and solving real-world problems  
-🚀 Built projects using React Native, Node.js, Firebase, SvelteKit, and more  
+🚀 Built projects using React Native, Node.js, Firebase, SvelteKit, PostgreSQL, MongoDB, Postman and more 
 📍 Based in Southern California | 🌎 Open to remote opportunities
 
 ---
@@ -52,7 +52,7 @@
 
 ## 🌟 Current Projects
 
-- 🛠 **LB-Calipers** – Automotive booking site using SvelteKit + FireBase + PostgreSQL  
+- 🛠 **LB-Calipers** – Automotive booking site for clients using SvelteKit + FireBase + PostgreSQL  
 - 🌎 **Inclusi App** – React Native app for Hispanic immigrants (Top 5 Finalist @ SCE Competition)  
 - 🧠 **Power-Planner** – Gym membership tracking app (Node.js + MongoDB) 
 
