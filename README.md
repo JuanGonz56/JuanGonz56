@@ -1,11 +1,12 @@
-<!-- Full-width animated purple-to-gold waving banner -->
+<!-- Animated Wavy Banner with Purple/Gold Gradient -->
 <div style="margin: 0 auto;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=soft&color=0:9b59b6,100:f1c40f&height=160&section=header&text=Welcome%20I'm%20Juan!&fontColor=ffffff&fontSize=34&animation=twinkling&fontAlignY=38" 
-    alt="Animated Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:9b59b6,100:f1c40f&height=180&section=header&text=Welcome%20I'm%20Juan!&fontColor=ffffff&fontSize=35&animation=scaleIn&fontAlignY=35" 
+    alt="Welcome Banner"
     style="width: 100%; display: block;" 
   />
 </div>
+
 
 <p align="center">
   <a href="https://personal-portfolio-website-one-lyart.vercel.app" target="_blank">
